@@ -4,8 +4,8 @@
 Convolution with a 1x1 kernel size can be viewed as "feature pooling". This is a
 linear operation but is commonly used in conjunction with a non linear
 activation function as ReLU.
-  - This operation fills a role as dimensionality reduction if the output channel is
-  larger than its input.
+  - This operation fills a role as dimensionality reduction if the output channel
+  is larger than its input.
   - Combination of 1x1 (x F) convolution is mathematically equivalent to a
   multi-layer perceptron.
 
