@@ -1,6 +1,6 @@
 ## Convolution
 
-#### 1-by-1 convolution
+#### 1x1 Convolution
 Convolution with a 1x1 kernel size can be viewed as "feature pooling". This is a
 linear operation but is commonly used in conjunction with a non linear
 activation function as ReLU.
@@ -10,7 +10,7 @@ activation function as ReLU.
   multi-layer perceptron.
 
 
-#### Distributed convolutional kernels
+#### Distributed Convolutional Kernels
 The kernel size is proportional with the computational cost of the convolutional
 operation, meaning a 7x7 kernel size have a computational cost 5.4 times that of
 a 3x3 kernel.

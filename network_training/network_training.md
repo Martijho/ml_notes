@@ -1,13 +1,13 @@
-#### Linear scaling learning rate by batch-size
+#### Linear Scaling Learning rate by batch-size
 In mini-batch SGD, gradient descending is a random process because the examples
 are randomly selected in each batch. Increasing the batch
 size does not change the expectation of the stochastic gradient but reduces its
 variance. In other words, a large batch size reduces the noise in the gradient,
 so we may increase the learning rate to make a larger progress along the
 opposite of the gradient direction.
-Goyal et al. [7] reports that linearly increasing the learning rate with the
+Goyal et al. reports that linearly increasing the learning rate with the
 batch size works empirically for ResNet-50 training. In particular, if we follow
-He et al. [9] to choose 0.1 as the initial learning rate for batch size 256,
+He et al. to choose 0.1 as the initial learning rate for batch size 256,
 then when changing to a larger batch size b, we will increase the initial
 learning rate to 0.1 × b/256.
 source: https://arxiv.org/abs/1812.01187
@@ -17,7 +17,7 @@ At the beginning of the training, all parameters are typically random values and
 therefore far away from the final solution. Using a too large learning rate may
 result in numerical instability. In the warmup heuristic, we use a small
 learning rate at the beginning and then switch back to the initial learning rate
-when the training process is stable [9]. Goyal et al. [7] proposes a gradual
+when the training process is stable. Goyal et al. proposes a gradual
 warmup strategy that increases the learning rate from 0 to the initial learning
 rate linearly. In other words, assume we will use the first m batches
 (e.g. 5 data epochs) to warm up, and the initial learning rate is η, then at
@@ -85,3 +85,9 @@ source: https://arxiv.org/pdf/1710.09412.pdf
 #### Learning rate schedulers
   - Cosine decay follows a cosine function that reduce the learning rate
   gradually every step towards 0.
+  - Linear Cosine Decay follows a decaying cosine function similar to cosine decay. 
+  source: https://arxiv.org/pdf/1709.07417.pdf 
+  - Noisy Linear Decay is a Cosine Decay schedule with some added noise sampled from a 
+  normal distribution N(\mu, \sigma) where \sigma follows a linear decay. 
+  source: https://arxiv.org/pdf/1710.09412.pdf
+  
