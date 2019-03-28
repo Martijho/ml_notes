@@ -24,4 +24,16 @@
     * <a href='object_detection/object_detection.md#learning-rate-warmup'>Learning Rate Warmup</a><br>
     * <a href='object_detection/object_detection.md#mixup-for-object-detection'>Mixup for Object Detection</a><br>
     
-    
+* <a href='autoencoders/autoencoders.md'>Autoencoders</a><br>
+    * <a href='autoencoders/autoencoders.md#variational-autoencoders'>Variational autoencoders</a><br>
+
+#### Resources
+* Books
+[StackOverflow](https://stackoverflow.com/)
+    * [Elements of statistical learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+* Papers
+    * [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
+    * [Bag of Freebies for Training Object Detection Neural Networks](https://arxiv.org/pdf/1902.04103.pdf)
+* Web resources
+    * [Articles and news](https://towardsdatascience.com/machine-learning/home)
+    * [Database of papers and code examples](https://paperswithcode.com/sota)
