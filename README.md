@@ -29,7 +29,6 @@
 
 #### Resources
 * Books
-[StackOverflow](https://stackoverflow.com/)
     * [Elements of statistical learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * Papers
     * [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
