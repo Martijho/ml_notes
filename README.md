@@ -23,7 +23,7 @@
     * <a href='object_detection/object_detection.md#backbone-architectures'>Backbone Architectures</a><br>
     * <a href='object_detection/object_detection.md#learning-rate-warmup'>Learning Rate Warmup</a><br>
     * <a href='object_detection/object_detection.md#mixup-for-object-detection'>Mixup for Object Detection</a><br>
-    
+    * <a href='object_detection/object_detection.md#foveabox'>FoveaBox</a><br>
 * <a href='autoencoders/autoencoders.md'>Autoencoders</a><br>
     * <a href='autoencoders/autoencoders.md#variational-autoencoders'>Variational autoencoders</a><br>
 
