@@ -6,4 +6,6 @@ Then use these vectors to sample the latent space into a vector of the same size
 original bottleneck. 
     The goal is to end up with a continous latent space with densly packed feature "regions". 
 This is aided by introducing Kullback-Leibler divergence in the loss function. 
+It's common practice to avoid using batch normalization when training VAEs, since the additional 
+stochasticity due to using mini-batches may aggravate instability on top of the stochasticity from sampling.
 Source: https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf
