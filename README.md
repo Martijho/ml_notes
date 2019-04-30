@@ -36,3 +36,7 @@
 * Web resources
     * [Articles and news](https://towardsdatascience.com/machine-learning/home)
     * [Database of papers and code examples](https://paperswithcode.com/sota)
+* Datasets 
+    * [VisualData](https://www.visualdata.io/)
+    * [UCI](http://mlr.cs.umass.edu/ml/)
+    * [Kaggle](https://www.kaggle.com/datasets)
