@@ -26,7 +26,8 @@
     * <a href='object_detection/object_detection.md#foveabox'>FoveaBox</a><br>
 * <a href='autoencoders/autoencoders.md'>Autoencoders</a><br>
     * <a href='autoencoders/autoencoders.md#variational-autoencoders'>Variational autoencoders</a><br>
-
+* <a href='other/other.md'>Other</a><br>
+    * <a href='other/other.md#capsule-network'>Capsule Network</a><br>
 #### Resources
 * Books
     * [Elements of statistical learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
