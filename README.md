@@ -45,3 +45,5 @@
 * Labeling tools:
     * [List of tools](https://www.datasetlist.com/tools/)
     * [Epigram tool](https://labeltool-web.firebaseapp.com/)
+* Articles:
+    * [Towards datascience](https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae) 
