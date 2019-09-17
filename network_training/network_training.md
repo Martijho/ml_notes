@@ -89,5 +89,12 @@ source: https://arxiv.org/pdf/1710.09412.pdf
   source: https://arxiv.org/pdf/1709.07417.pdf 
   - Noisy Linear Decay is a Cosine Decay schedule with some added noise sampled from a 
   normal distribution N(\mu, \sigma) where \sigma follows a linear decay. 
-  source: https://arxiv.org/pdf/1710.09412.pdf
-  
+source: https://arxiv.org/pdf/1710.09412.pdf
+
+#### Stability training
+Increasing stability in model output. Idealy, small differences in model input should cause
+very similar outputs, but in some cases (e.g object detection) small fluctuations in input noise
+can shift confidences above or below thresholds. Stability training is aimed at teaching the network
+to produce the same output given two cases of the same input, with different sets of small
+random noise added.
+source: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zheng_Improving_the_Robustness_CVPR_2016_paper.pdf

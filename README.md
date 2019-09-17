@@ -18,7 +18,7 @@
     * <a href='network_training/network_training.md#label-smoothing'>Label smoothing</a><br>
     * <a href='network_training/network_training.md#mixup-training'>Mixup Training</a><br>
     * <a href='network_training/network_training.md#learning-rate-schedulers'>Learning rate schedulers</a><br>
-    
+    * <a href='network_training/network_training.md#stability-training'>Stability training</a><br>
 * <a href='object_detection/object_detection.md'>Object Detection</a><br>
     * <a href='object_detection/object_detection.md#backbone-architectures'>Backbone Architectures</a><br>
     * <a href='object_detection/object_detection.md#learning-rate-warmup'>Learning Rate Warmup</a><br>
