@@ -1,13 +1,10 @@
 # Machine Learning notes
 
 ### Table of contents
-* <a href='network_architecture/network_architecture.md'>Architecture</a><br> 
-
+* <a href='network_architecture/network_architecture.md'>Architecture</a><br>
 * <a href='neural_network_layers/neural_network_layers.md'>Network Layers</a><br>
     * <a href='neural_network_layers/neural_network_layers.md#1x1-convolution'> 1x1 Convolution </a><br>
     * <a href='neural_network_layers/neural_network_layers.md#distributed-convolutional-kernels'> Distributed Convolutional Kernels </a><br>
-
-
 * <a href='network_training/network_training.md'>Network Training</a><br>
     * <a href='network_training/network_training.md#linear-scaling-learning-rate-by-batch-size'>Linear Scaling Learning rate by batch size</a><br>
     * <a href='network_training/network_training.md#learning-rate-warmup'>Learning Rate Warmup</a><br>
@@ -39,6 +36,7 @@
 * Web resources
     * [Articles and news](https://towardsdatascience.com/machine-learning/home)
     * [Database of papers and code examples](https://paperswithcode.com/sota)
+    * [Yolo explained](https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 * Datasets 
     * [VisualData](https://www.visualdata.io/)
     * [UCI](http://mlr.cs.umass.edu/ml/)

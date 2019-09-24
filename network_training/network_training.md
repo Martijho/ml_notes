@@ -98,3 +98,6 @@ can shift confidences above or below thresholds. Stability training is aimed at 
 to produce the same output given two cases of the same input, with different sets of small
 random noise added.
 source: https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zheng_Improving_the_Robustness_CVPR_2016_paper.pdf
+
+#### Mean Teacher
+source: https://github.com/CuriousAI/mean-teacher
