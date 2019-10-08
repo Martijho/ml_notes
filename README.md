@@ -48,6 +48,6 @@
 * Articles:
     * [Towards datascience](https://towardsdatascience.com/advanced-topics-in-neural-networks-f27fbcc638ae)
 * Model conversion between frameworks
-    * [Overview] (https://awesomeopensource.com/project/ysh329/deep-learning-model-convertor)
+    * [Overview](https://awesomeopensource.com/project/ysh329/deep-learning-model-convertor)
 * Debugging
     * ["Why is it not working"-checklist](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
