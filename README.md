@@ -51,3 +51,6 @@
     * [Overview](https://awesomeopensource.com/project/ysh329/deep-learning-model-convertor)
 * Debugging
     * ["Why is it not working"-checklist](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
+* Guides
+    * [Working with google spread sheet in python](https://towardsdatascience.com/accessing-google-spreadsheet-data-using-python-90a5bc214fd2)
+    
