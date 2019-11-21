@@ -34,4 +34,4 @@ loss calculation and evaluation. (or where ever detections are parsed in some wa
 The predicted bounding box coordinates of an object could also be expanded to include a rotation. For person detection,
 for instance, people leaning to one side will increase the box area to include a lot of background. Predicting a
 rotation of the bounding box could take the place of predicting the 4 points in a slanting box, which is kind of
-like polygon/keypoint detection. 
+like polygon/keypoint detection.
