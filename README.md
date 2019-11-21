@@ -25,8 +25,8 @@
     * <a href='autoencoders/autoencoders.md#variational-autoencoders'>Variational autoencoders</a><br>
 * <a href='other/other.md'>Other</a><br>
     * <a href='other/other.md#capsule-network'>Capsule Network</a><br>
-    * <a href='other/training_structure_vs_inference_structure'>Training structure vs Inference structure</a><br>
-    * <a href='other/object_detection_with_non-rectangle_object_definition'>Object detection with non-rectangle object definition</a><br>
+    * <a href='other/other.md#training_structure_vs_inference_structure'>Training structure vs Inference structure</a><br>
+    * <a href='other/other.md#object_detection_with_non-rectangle_object_definition'>Object detection with non-rectangle object definition</a><br>
 
 #### Resources
 * Books
