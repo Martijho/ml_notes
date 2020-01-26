@@ -43,6 +43,7 @@
     * [UCI](http://mlr.cs.umass.edu/ml/)
     * [Kaggle](https://www.kaggle.com/datasets)
     * [List of sets](https://www.datasetlist.com/)
+    https://datasetsearch.research.google.com/
 * Labeling tools:
     * [List of tools](https://www.datasetlist.com/tools/)
     * [Epigram tool](https://labeltool-web.firebaseapp.com/)
